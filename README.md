@@ -9,6 +9,10 @@ This project is an open-ended experiment in rethinking how neural computation co
 
 Instead of linear tensors and rectangular attention windows, I'm exploring **circular structures** — where memory wraps around, overflow is meaningful, and the "shape" of computation becomes dynamic.
 
+
+https://github.com/user-attachments/assets/ee2e15db-bc2a-4093-9d46-784d2adba693
+
+
 Imagine:
 - A 2D Matrix of for example 32 x 32, which are 32 node columns (nodes) and 32 node rows (lets call them layers)
 - The 2D Matrix curving into a cylinder
