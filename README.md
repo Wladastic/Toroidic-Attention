@@ -10,7 +10,7 @@ This project is an open-ended experiment in rethinking how neural computation co
 Instead of linear tensors and rectangular attention windows, I'm exploring **circular structures** — where memory wraps around, overflow is meaningful, and the "shape" of computation becomes dynamic.
 
 
-https://github.com/user-attachments/assets/ee2e15db-bc2a-4093-9d46-784d2adba693
+![Illustration for Toroidic Attention showing the disruption of 2d plane](https://github.com/user-attachments/assets/ee2e15db-bc2a-4093-9d46-784d2adba693)
 
 
 Imagine:
