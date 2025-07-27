@@ -9,7 +9,7 @@ This project is an open-ended experiment in rethinking how neural computation co
 
 Instead of linear tensors and rectangular attention windows, I'm exploring **circular structures** — where memory wraps around, overflow is meaningful, and the "shape" of computation becomes dynamic.
 
-[![Watch the video](assets/image.png)](assets/video.mp4)
+[![Watch the video](assets/image.png)](https://raw.githubusercontent.com/Wladastic/Toroidic-Attention/main/assets/video.mp4)
 
 Imagine:
 - A 2D Matrix of for example 32 x 32, which are 32 node columns (nodes) and 32 node rows (lets call them layers)
